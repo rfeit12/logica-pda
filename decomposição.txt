@@ -1,0 +1,5 @@
+-Estabelecer critérios de gravidade
+-Estabelecer critérios preferencial
+-Fazer cadastro de novo usuário
+-Fazer agendamento
+-Envio para filas de acordo com critérios acima

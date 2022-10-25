@@ -1,0 +1,6 @@
+Paciente chega
+Faz cadastro com nome, idade, endereço, telefone e apresenta o rg
+Avaliação de urgência do caso do paciente
+Agendamento de consulta
+Vai para a sala de espera 
+recebe atendimento medico
